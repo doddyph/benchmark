@@ -1,0 +1,7 @@
+*.dump
+*.pyc
+*.csv
+wsgi/tornado/.idea
+socket/tornado/.idea
+wsgi/tornado/pyvenv
+socket/tornado/pyvenv

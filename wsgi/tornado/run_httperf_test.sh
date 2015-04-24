@@ -1,0 +1,1 @@
+/usr/bin/httperf --hog --timeout=5 --client=0/1 --server=localhost --port=8080 --uri=/ --send-buffer=4096 --recv-buffer=16384 --num-conns=400 --num-calls=10 --rate=1
